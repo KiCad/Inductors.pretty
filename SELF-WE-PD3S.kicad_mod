@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "SELF WE-PD3S")
   (attr smd)
-  (fp_text reference SELF-WE-PD3S (at -0.889 0 90) (layer F.SilkS)
+  (fp_text reference REF** (at -0.889 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0.889 -0.381 90) (layer F.SilkS)
+  (fp_text value SELF-WE-PD3S (at 0.889 -0.381 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 -2.54) (end 1.016 -2.54) (layer F.SilkS) (width 0.15))
@@ -20,7 +20,7 @@
   (fp_circle (center 0 0) (end 0 2.54) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.048 0) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.048 0) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
-  (model Inductors/SELF-WE-PD3S.wrl
+  (model Inductors.3dshapes/SELF-WE-PD3S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.53 0.53 0.53))
     (rotate (xyz 0 0 0))
