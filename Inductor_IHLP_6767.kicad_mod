@@ -1,6 +1,7 @@
 (module Inductor_IHLP_6767 (layer F.Cu) (tedit 56BD5635)
   (descr http://www.vishay.com/docs/34282/lp67gz11.pdf)
   (tags "inductor IHLP 6767")
+  (attr smd)
   (fp_text reference REF** (at 0 10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
