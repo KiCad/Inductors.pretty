@@ -1,5 +1,5 @@
-(module Inductor_WE-MAPI-3020 (layer F.Cu) (tedit 56ED2CD2)
-  (descr "Inductor, Würth Elektronik, WE-MAPI-3020, 3.0mmx3.0mm")
+(module Inductor_WE-MAPI-3020 (layer F.Cu) (tedit 56F35A43)
+  (descr "Inductor, Wurth Elektronik, WE-MAPI-3020, 3.0mmx3.0mm")
   (tags "inductor wurth smd")
   (attr smd)
   (fp_text reference REF** (at 0 -2.7) (layer F.SilkS)
