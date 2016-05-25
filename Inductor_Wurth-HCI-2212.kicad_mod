@@ -1,11 +1,11 @@
-(module Inductor_WE-HCI-2212 (layer F.Cu) (tedit 5745A568)
-  (descr "Inductor, Wurth Elektronik, WE-HCI-2212, 22.5mmx22.0mm")
+(module Inductor_Wurth-HCI-2212 (layer F.Cu) (tedit 5745ADA6)
+  (descr "Inductor, Wurth Elektronik, Wurth-HCI-2212, 22.5mmx22.0mm")
   (tags "inductor wurth hci smd")
   (attr smd)
   (fp_text reference REF** (at 0 -12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Inductor_WE-HCI-2212 (at 0 12.5) (layer F.Fab)
+  (fp_text value Inductor_Wurth-HCI-2212 (at 0 12.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11.25 -11) (end -11.25 11) (layer F.Fab) (width 0.15))
@@ -24,7 +24,7 @@
   (fp_line (start 11.35 -11.1) (end 11.35 -3.9) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -8.25 0) (size 7 7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 8.25 0) (size 7 7) (layers F.Cu F.Paste F.Mask))
-  (model Inductors.3dshapes/Inductor_WE-HCI-2212.wrl
+  (model Inductors.3dshapes/Inductor_Wurth-HCI-2212.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
